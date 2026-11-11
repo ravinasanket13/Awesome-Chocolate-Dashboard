@@ -22,4 +22,6 @@ Kaggle
  . Business impact and insights
 
 6. Screenshot
+  Sales Dashboard:  https://github.com/ravinasanket13/Awesome-Chocolate-Dashboard/blob/main/Sales.png
+  Shipment Dashboard: 
    
