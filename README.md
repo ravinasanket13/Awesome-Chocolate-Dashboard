@@ -61,7 +61,7 @@ Boxes (bins) = INT(shipments[Boxes] / 20) * 20
 ##Report pages
 | Shipments page |	Sales page |
 | ---| ---|
-| ![Shipments](Shipment.png)	| ![Sales](Sales.png) |
+| ![Shipments](Shipment.png)	| ![Sales](Sales.png) 
 
 ##How to open
 Download `Awesone chocolate dashboard.pbit` and open it in **Power BI Desktop**. When prompted, point it to the Awesome Chocolates sample Excel file.
